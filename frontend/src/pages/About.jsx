@@ -11,7 +11,7 @@ const About = () => {
         <div className="mt-4">
           <p className="text-gray-300">📍 SRM University, Delhi-NCR</p>
           <p className="text-gray-300">📧 Email: rahulsharma@email.com</p>
-          <p className="text-gray-300">📞 Phone: +91 7217326172</p>
+          <p className="text-gray-300">📞 Phone: +91 721******</p>
         </div>
 
         <div className="mt-4">
